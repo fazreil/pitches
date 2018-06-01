@@ -47,6 +47,8 @@
 ### manage conflicts diligently
 
 ### commit relevant changes with relevant message
+  - Best to group a commit to relevant files being modified.
+  - while committing a bunch of files is easy, committing the files with common commit makes the log more readable.
 
 ### VCS is not just for coding
   - VCS can be utilised to record changes of files.
