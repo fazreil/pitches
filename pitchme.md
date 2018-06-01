@@ -1,0 +1,51 @@
+# Version Control Systems
+
+## What is version control system
+
+## Types of version control systems
+
+### Centralized VCS
+
+### Distributed VCS
+
+## Popular Version Control System
+
+### GIT
+
+### svn
+
+### clearcase
+
+### mercurial
+
+## Common philosophy of a VCS
+
+### Repositories
+
+### Branches and Tags
+
+### Commits
+
+### Diff
+
+### Merging
+
+### logs
+
+## VCS server and client
+
+### clients for windows
+
+### clients for mac
+
+### clients for linux
+
+## Practical use of VCS
+
+### update your code frequently
+
+### manage conflicts diligently
+
+### commit relevant changes with relevant message
+
+### VCS is not just for coding
