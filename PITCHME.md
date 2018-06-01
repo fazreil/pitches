@@ -49,3 +49,6 @@
 ### commit relevant changes with relevant message
 
 ### VCS is not just for coding
+  - VCS can be utilised to record changes of files.
+  - Work best with plaintext.
+  - Can also work with keeping configuration files of applications.
