@@ -55,6 +55,11 @@
 
 ### Branches and Tags
 
+  - Branches are a stream of work
+  - Multiple branches allow work to be done in parallel
+  - some branches are meant to be read only, these are called Tags
+  - Tags freeze the file at a certain point. the point refers to a commit
+   
 +++
 
 ### Commits
