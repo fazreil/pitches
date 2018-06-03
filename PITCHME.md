@@ -46,6 +46,11 @@
 
 ### Repositories
 
+  - Repositories are basically the storage space to place the content.
+  - Repositories shall store files relevant to itself
+  - sometimes repositories sharing do happen, then it gets confusing.
+  - a repository is usually invisible to other repositories
+
 +++
 
 ### Branches and Tags
