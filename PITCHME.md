@@ -100,9 +100,17 @@ There are two types of Version Control System:
 
 ### Commits
 
+  - commits are transaction of changes made by an author
+  - a commit may contain one or more changes across the files
+  - a commit marks a new revision/version that add up to the current branch 
+
 +++
 
 ### Diff
+
+  - a diff is a comparison between two commits
+  - a diff can also be a comparison between an unstaged and a versioned files
+  - useful when trying to figure out what happened between commits
 
 +++
 
