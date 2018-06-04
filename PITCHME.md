@@ -9,6 +9,9 @@
 According to Wikipedia
 > A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 
+---
+
+## What is version control system
 According to Atlassian 
 > Version control systems are a category of software tools that help a software team manage changes to source code over time.
 
@@ -24,17 +27,21 @@ There are two types of Version Control System:
 
 ### Centralized VCS
 
+@ul
 - logs changes in the central server.
 - less conflicts
 - easy to administer
+@ulend
 
 +++
 
 ### Distributed VCS
 
+@ul
 - keep the changes in its  local repository
 - enable work to be carried out offline.
 - Cultivate the environment of open source
+@ulend
 
 ---
 
@@ -44,35 +51,42 @@ There are two types of Version Control System:
 
 ### GIT
 
+@ul
 - Distributed VCS
 - biggest user database
 - Has a lot of commands to manipulate git.
+@ulend
 
 +++
 
 ### SVN and CVS
 
+@ul
 - Centralized VCS
 - pre-Git users are used to Subversion/SVN
 - most straight forward approach in Version Control System
 - uses trunk, branch, tag approach.
+@ulend
 
 +++
 
 ### clearcase
 
+@ul
 - Centralized VCS.
 - a VCS backed by IBM.
 - visually interesting, uses config spec which produce a comprehensive set of files
-
+@ulend
 
 +++
 
 ### mercurial
 
+@ul
 - Distributed VCS.
 - Fast, written in python (platform independent)
 - claim to have behavior similar to SVN. Migrating to mercurial would be easy.
+@ulend
 
 ---
 
@@ -115,6 +129,11 @@ There are two types of Version Control System:
 +++
 
 ### Merging
+
+  - merging is an act of combining the content of two branches
+  - modern tools usually have auto merging feature built in.
+  - manual merge is required when there are conflicts arise during merge
+  - manual merging is a process of picking relevant changes into the branch
 
 +++
 
