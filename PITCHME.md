@@ -20,17 +20,17 @@ According to Atlassian
 ## Types of version control systems
 
 There are two types of Version Control System:
-- Centralized VCS
-- Distributed VCS
+  - Centralized VCS
+  - Distributed VCS
 
 +++
 
 ### Centralized VCS
 
 @ul
-- logs changes in the central server.
-- less conflicts
-- easy to administer
+  - logs changes in the central server.
+  - less conflicts
+  - easy to administer
 @ulend
 
 +++
@@ -38,9 +38,9 @@ There are two types of Version Control System:
 ### Distributed VCS
 
 @ul
-- keep the changes in its  local repository
-- enable work to be carried out offline.
-- Cultivate the environment of open source
+  - keep the changes in its  local repository
+  - enable work to be carried out offline.
+  - Cultivate the environment of open source
 @ulend
 
 ---
@@ -51,42 +51,34 @@ There are two types of Version Control System:
 
 ### GIT
 
-@ul
-- Distributed VCS
-- biggest user database
-- Has a lot of commands to manipulate git.
-@ulend
+  - Distributed VCS
+  - biggest user database
+  - Has a lot of commands to manipulate git.
 
 +++
 
 ### SVN and CVS
 
-@ul
-- Centralized VCS
-- pre-Git users are used to Subversion/SVN
-- most straight forward approach in Version Control System
-- uses trunk, branch, tag approach.
-@ulend
+  - Centralized VCS
+  - pre-Git users are used to Subversion/SVN
+  - most straight forward approach in Version Control System
+  - uses trunk, branch, tag approach.
 
 +++
 
 ### clearcase
 
-@ul
-- Centralized VCS.
-- a VCS backed by IBM.
-- visually interesting, uses config spec which produce a comprehensive set of files
-@ulend
+  - Centralized VCS.
+  - a VCS backed by IBM.
+  - visually interesting, uses config spec which produce a comprehensive set of files
 
 +++
 
 ### mercurial
 
-@ul
-- Distributed VCS.
-- Fast, written in python (platform independent)
-- claim to have behavior similar to SVN. Migrating to mercurial would be easy.
-@ulend
+  - Distributed VCS.
+  - Fast, written in python (platform independent)
+  - claim to have behavior similar to SVN. Migrating to mercurial would be easy.
 
 ---
 
@@ -138,6 +130,8 @@ There are two types of Version Control System:
 +++
 
 ### logs
+
+  - 
 
 ---
 
