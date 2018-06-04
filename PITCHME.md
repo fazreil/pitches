@@ -6,15 +6,18 @@
 
 ## What is version control system
 
-According to Wikipedia
 > A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
-
+@div[right-50]
+Wikipedia
+@divend
 ---
 
 ## What is version control system
-According to Atlassian 
 > Version control systems are a category of software tools that help a software team manage changes to source code over time.
-
+@div[right-50]
+Atlassian 
+@divend
+---
 ---
 
 ## Types of version control systems
@@ -28,9 +31,9 @@ There are two types of Version Control System:
 ### Centralized VCS
 
 @ul
-  - logs changes in the central server.
-  - less conflicts
-  - easy to administer
+  - logs changes in the @color[#e49436](central) server.
+  - less @color[#e49436](conflicts)
+  - easy to @color[#e49436](administer)
 @ulend
 
 +++
@@ -38,9 +41,9 @@ There are two types of Version Control System:
 ### Distributed VCS
 
 @ul
-  - keep the changes in its  local repository
-  - enable work to be carried out offline.
-  - Cultivate the environment of open source
+  - keep the changes in its  @color[#e49436](local repository)
+  - enable work to be carried out @color[#e49436](offline).
+  - Cultivate the culture of @color[#e49436](open source)
 @ulend
 
 ---
@@ -53,7 +56,7 @@ There are two types of Version Control System:
 
   - Distributed VCS
   - biggest user database
-  - Has a lot of commands to manipulate git.
+  - Has a @color[#e49436](lot of commands) to manipulate git.
 
 +++
 
@@ -61,7 +64,7 @@ There are two types of Version Control System:
 
   - Centralized VCS
   - pre-Git users are used to Subversion/SVN
-  - most straight forward approach in Version Control System
+  - most @color[#e49436](straight forward approach) in Version Control System
   - uses trunk, branch, tag approach.
 
 +++
@@ -69,7 +72,7 @@ There are two types of Version Control System:
 ### clearcase
 
   - Centralized VCS.
-  - a VCS backed by IBM.
+  - a VCS backed by @color[#e49436](IBM).
   - visually interesting, uses config spec which produce a comprehensive set of files
 
 +++
@@ -77,7 +80,7 @@ There are two types of Version Control System:
 ### mercurial
 
   - Distributed VCS.
-  - Fast, written in python (platform independent)
+  - Fast, written in @color[#e49436](python) (platform independent)
   - claim to have behavior similar to SVN. Migrating to mercurial would be easy.
 
 ---
@@ -88,43 +91,43 @@ There are two types of Version Control System:
 
 ### Repositories
 
-  - Repositories are basically the storage space to place the content.
-  - Repositories shall store files relevant to itself
+  - Repositories are basically the @color[#e49436](storage space) to place the content.
+  - Repositories shall store files @color[#e49436](relevant) to itself
   - sometimes repositories sharing do happen, then it gets confusing.
-  - a repository is usually invisible to other repositories
+  - a repository is usually @color[#e49436](invisible) to other repositories
 
 +++
 
 ### Branches and Tags
 
-  - Branches are a stream of work
-  - Multiple branches allow work to be done in parallel
-  - some branches are meant to be read only, these are called Tags
+  - Branches are a @color[#e49436](stream of work)
+  - Multiple branches allow work to be done @color[#e49436](in parallel)
+  - some branches are meant to be read only, these are called @color[#e49436](Tags)
   - Tags freeze the file at a certain point. the point refers to a commit
    
 +++
 
 ### Commits
 
-  - commits are transaction of changes made by an author
-  - a commit may contain one or more changes across the files
-  - a commit marks a new revision/version that add up to the current branch 
+  - commits are @color[#e49436](transaction) of changes made by an author
+  - a commit may contain one or more @color[#e49436](changes) across the files
+  - a commit marks a new @color[#e49436](revision/version) that add up to the current branch 
 
 +++
 
 ### Diff
 
-  - a diff is a comparison between two commits
-  - a diff can also be a comparison between an unstaged and a versioned files
+  - a diff is a @color[#e49436](comparison) between two commits
+  - a diff can also be a comparison between an @color[#e49436](unstaged) and a @color[#e49436](versioned) files
   - useful when trying to figure out what happened between commits
 
 +++
 
 ### Merging
 
-  - merging is an act of combining the content of two branches
-  - modern tools usually have auto merging feature built in.
-  - manual merge is required when there are conflicts arise during merge
+  - merging is an act of @color[#e49436](combining) the content of two branches
+  - modern tools usually have @color[#e49436](auto merging) feature built in.
+  - manual merge is required when there are @color[#e49436](conflicts) arise during merge
   - manual merging is a process of picking relevant changes into the branch
 
 +++
