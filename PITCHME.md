@@ -100,6 +100,19 @@ There are two types of Version Control System:
 
 +++
 
+#### The following slide show a process of cloning a repository
+
+  - the process show the @color[#e49436](address) of the git repository
+  - the address is also refers to as @color[#e49436](remote url)
+  - default remote url is called @color[#e49436](origin)
+  - @color[#e49436](git status) shows which branch you are in
+
++++?image=assets/images/git-clone.png&size=50%
+
+@title[Cloning a repo]
+
++++
+
 ### Branches and Tags
 
   - Branches are a @color[#e49436](stream of work)
@@ -114,6 +127,18 @@ There are two types of Version Control System:
   - commits are @color[#e49436](transaction) of changes made by an author
   - a commit may contain one or more @color[#e49436](changes) across the files
   - a commit marks a new @color[#e49436](revision/version) that add up to the current branch 
+
++++
+
+#### The following slide show the status of the git repository
+
+  - it shows how your branch is doing compared to the origin
+  - it also list down modifications made with the content
+  - new files not yet tracked by the repo is shown here too
+
++++?image=assets/images/git-status.png&size=50%
+
+@title[git status]
 
 +++
 
