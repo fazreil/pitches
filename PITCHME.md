@@ -6,7 +6,7 @@
 
 ## What is version control system
 
-> A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
+> A component of software configuration management, version control / revision control / source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 @div[right-50]
 Wikipedia
 @divend
@@ -101,7 +101,7 @@ There are two types of Version Control System:
 +++
 
 #### The following slide show a process of cloning a repository
-
+@title[process of cloning]
   - the process show the @color[#e49436](address) of the git repository
   - the address is also refers to as @color[#e49436](remote url)
   - default remote url is called @color[#e49436](origin)
@@ -123,9 +123,9 @@ There are two types of Version Control System:
 +++
 
 #### The following slide show the collection of branches both available locally and remotely
-
-  - The lines starting with 'remote' are branches available in remote repo
-  - if there are remote branches listed that is not available locally, you are not tracking the branch
+@title[collection of branches]
+  - The lines starting with 'remote' are branches available in @color[#e49436](remote repo)
+  - if there are remote branches listed that is not available locally, you are @color[#e49436](not tracking) the branch
 
 +++?image=assets/images/git-local-remote-branch.png&size=50%
 
@@ -142,10 +142,10 @@ There are two types of Version Control System:
 +++
 
 #### The following slide show the status of the git repository
-
-  - it shows how your branch is doing compared to the origin
-  - it also list down modifications made with the content
-  - new files not yet tracked by the repo is shown here too
+@title[status of the git repository]
+  - it shows @color[#e49436](how your branch is doing) compared to the origin
+  - it also list down @color[#e49436](modifications) made with the content
+  - new files @color[#e49436](not yet tracked) by the repo is shown here too
 
 +++?image=assets/images/git-status.png&size=50%
 
@@ -156,16 +156,16 @@ There are two types of Version Control System:
 ### logs
 
   - list of commits
-  - may show the relation between branches
-  - useful to show the work done for certain file
+  - may show the @color[#e49436](relation between branches)
+  - useful to show @color[#e49436](the work done) for certain file
 
 +++
 
 #### The following slide show a log of work done on a file
-
-- it shows who do what
-- it also show what was the commit message
-- it shows what time it was done
+@title[Log of work done on a file]
+- it shows @color[#e49436](who do what)
+- it also show what was the @color[#e49436](commit message)
+- it shows @color[#e49436](what time) it was done
 
 +++?image=assets/images/log-file.png&size=50%
 
@@ -183,10 +183,10 @@ There are two types of Version Control System:
 +++
 
 #### The following slide shows an example of a diff
-
-  - it shows what files being diff
-  - you can see what was added (+) and what was removed (-)
-  - this helps you look at what have you worked on.
+@title[Example of a diff]
+  - it shows @color[#e49436](what files) being diff
+  - you can see what was added (@color[green](+)) and what was removed (@color[red](-))
+  - this helps you look at @color[#e49436](what have you worked) on.
 
 +++?image=assets/images/diff.png&size=50%
 
@@ -199,15 +199,15 @@ There are two types of Version Control System:
   - merging is an act of @color[#e49436](combining) the content of two branches
   - modern tools usually have @color[#e49436](auto merging) feature built in.
   - manual merge is required when there are @color[#e49436](conflicts) arise during merge
-  - manual merging is a process of picking relevant changes into the branch
+  - manual merging is a process of @color[#e49436](picking relevant changes) into the branch
 
 +++
 
 #### The following slide show a log with branches and merging happening
-
-- it shows what was done on which branch
+@title[Branches and merging]
+- it shows @color[#e49436](what was done) on which branch
 - and what was contributing to each branch
-- how it relate to other branches, like branching out and merging in
+- how it relate to other branches, like @color[#e49436](branching) out and @color[#e49436](merging) in
 
 +++?image=assets/images/log-branches.png&size=50%
 
