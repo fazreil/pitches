@@ -6,17 +6,20 @@
 
 ## What is version control system
 
++++
+
 > A component of software configuration management, version control / revision control / source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 @div[right-50]
 Wikipedia
 @divend
----
 
-## What is version control system
++++
+
 > Version control systems are a category of software tools that help a software team manage changes to source code over time.
 @div[right-50]
 Atlassian 
 @divend
+
 ---
 
 ## Types of version control systems
