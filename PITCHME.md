@@ -136,7 +136,15 @@ There are two types of Version Control System:
 
 ### logs
 
-  - 
+  - list of commits
+  - may show the relation between branches
+  - useful to show the work done for certain file
+
++++image=assets/images/log-file.png&size=50%
+@title[git log file]
+
++++image=assets/images/log-branches.png&size=50%
+@title[git log branches]
 
 ---
 
