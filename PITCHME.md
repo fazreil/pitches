@@ -45,7 +45,7 @@ There are two types of Version Control System:
   - Cultivate the culture of @color[#e49436](open source)
 @ulend
 
-+++?image=assets/images/centralized-vs-distributed.png&size=50%
++++?image=assets/images/centralized-vs-distributed.png&size=75%
 @title[Infographic centralized vs distributed VCS]
 
 ---
@@ -107,7 +107,7 @@ There are two types of Version Control System:
   - default remote url is called @color[#e49436](origin)
   - @color[#e49436](git status) shows which branch you are in
 
-+++?image=assets/images/git-clone.png&size=50%
++++?image=assets/images/git-clone.png&size=75%
 
 @title[Cloning a repo]
 
@@ -127,7 +127,7 @@ There are two types of Version Control System:
   - The lines starting with 'remote' are branches available in @color[#e49436](remote repo)
   - if there are remote branches listed that is not available locally, you are @color[#e49436](not tracking) the branch
 
-+++?image=assets/images/git-local-remote-branch.png&size=50%
++++?image=assets/images/git-local-remote-branch.png&size=75%
 
 @title[Git local and remote branches]
 
@@ -147,7 +147,7 @@ There are two types of Version Control System:
   - it also list down @color[#e49436](modifications) made with the content
   - new files @color[#e49436](not yet tracked) by the repo is shown here too
 
-+++?image=assets/images/git-status.png&size=50%
++++?image=assets/images/git-status.png&size=75%
 
 @title[git status]
 
@@ -167,7 +167,7 @@ There are two types of Version Control System:
 - it also show what was the @color[#e49436](commit message)
 - it shows @color[#e49436](what time) it was done
 
-+++?image=assets/images/log-file.png&size=50%
++++?image=assets/images/log-file.png&size=75%
 
 @title[git log file]
 
@@ -188,7 +188,7 @@ There are two types of Version Control System:
   - you can see what was added (@color[green](+)) and what was removed (@color[red](-))
   - this helps you look at @color[#e49436](what have you worked) on.
 
-+++?image=assets/images/diff.png&size=50%
++++?image=assets/images/diff.png&size=75%
 
 @title[git diff]
 
@@ -209,7 +209,7 @@ There are two types of Version Control System:
 - and what was contributing to each branch
 - how it relate to other branches, like @color[#e49436](branching) out and @color[#e49436](merging) in
 
-+++?image=assets/images/log-branches.png&size=50%
++++?image=assets/images/log-branches.png&size=75%
 
 @title[git log branches]
 
