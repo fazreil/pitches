@@ -49,7 +49,7 @@ There are two types of Version Control System:
 
 ### Centralized vs Distributed VCS
 
-![](assets/images/centralized-vs-distributed.png =100x100)
+![](assets/images/centralized-vs-distributed.png&size=auto)
 
 ---
 
