@@ -119,7 +119,18 @@ There are two types of Version Control System:
   - Multiple branches allow work to be done @color[#e49436](in parallel)
   - some branches are meant to be read only, these are called @color[#e49436](Tags)
   - Tags freeze the file at a certain point. the point refers to a commit
-   
+
++++
+
+#### The following slide show the collection of branches both available locally and remotely
+
+  - The lines starting with 'remote' are branches available in remote repo
+  - if there are remote branches listed that is not available locally, you are not tracking the branch
+
++++?image=assets/images/git-local-remote-branch.png&size=50%
+
+@title[Git local and remote branches]
+
 +++
 
 ### Commits
@@ -168,6 +179,18 @@ There are two types of Version Control System:
   - a diff is a @color[#e49436](comparison) between two commits
   - a diff can also be a comparison between an @color[#e49436](unstaged) and a @color[#e49436](versioned) files
   - useful when trying to figure out what happened between commits
+
++++
+
+#### The following slide shows an example of a diff
+
+  - it shows what files being diff
+  - you can see what was added (+) and what was removed (-)
+  - this helps you look at what have you worked on.
+
++++?image=assets/images/diff.png&size=50%
+
+@title[git diff]
 
 +++
 
