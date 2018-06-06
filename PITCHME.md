@@ -32,21 +32,17 @@ There are two types of Version Control System:
 
 ### Centralized VCS
 
-@ul
   - logs changes in the @color[#e49436](central) server.
   - less @color[#e49436](conflicts)
   - easy to @color[#e49436](administer)
-@ulend
 
 +++
 
 ### Distributed VCS
 
-@ul
   - keep the changes in its  @color[#e49436](local repository)
   - enable work to be carried out @color[#e49436](offline).
   - Cultivate the culture of @color[#e49436](open source)
-@ulend
 
 +++?image=assets/images/centralized-vs-distributed.png&size=75%
 @title[Infographic centralized vs distributed VCS]
