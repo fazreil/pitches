@@ -45,10 +45,7 @@ There are two types of Version Control System:
   - Cultivate the culture of @color[#e49436](open source)
 @ulend
 
-+++?image=assets/images/centralized-vs-distributed.png
-
-### Centralized vs Distributed VCS
-
++++?image=assets/images/centralized-vs-distributed.png&size=50%
 
 
 ---
