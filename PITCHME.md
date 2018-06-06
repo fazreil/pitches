@@ -18,7 +18,6 @@ Wikipedia
 Atlassian 
 @divend
 ---
----
 
 ## Types of version control systems
 
@@ -45,6 +44,12 @@ There are two types of Version Control System:
   - enable work to be carried out @color[#e49436](offline).
   - Cultivate the culture of @color[#e49436](open source)
 @ulend
+
++++
+
+### Centralized vs Distributed VCS
+
+![](assets/images/centralized-vs-distributed.png)
 
 ---
 
