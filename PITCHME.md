@@ -223,10 +223,10 @@ There are two types of Version Control System:
 ### clients for windows
 
 +++?image=https://i.stack.imgur.com/jhnqO.png&size=auto
-#### tortoise git
+#### @color[#e49436](tortoise git)
 
 +++?image=http://wiki.eclipse.org/images/d/d3/Egit-0.11-getstarted-compare.png&size=auto
-#### Eclipse EGit
+#### @color[#e49436](Eclipse EGit)
 
 +++
 
