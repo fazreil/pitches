@@ -46,7 +46,7 @@ There are two types of Version Control System:
 @ulend
 
 +++?image=assets/images/centralized-vs-distributed.png&size=50%
-
+@title[Infographic centralized vs distributed VCS]
 
 ---
 
