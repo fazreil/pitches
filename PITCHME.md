@@ -117,6 +117,27 @@ There are two types of Version Control System:
 
 +++
 
+### logs
+
+  - list of commits
+  - may show the relation between branches
+  - useful to show the work done for certain file
+
++++
+
+#### The following slide show a log of work done on a file
+
+- it shows who do what
+- it also show what was the commit message
+- it shows what time it was done
+
++++?image=assets/images/log-file.png&size=50%
+
+@title[git log file]
+
+
++++
+
 ### Diff
 
   - a diff is a @color[#e49436](comparison) between two commits
@@ -134,19 +155,16 @@ There are two types of Version Control System:
 
 +++
 
-### logs
+#### The following slide show a log with branches and merging happening
 
-  - list of commits
-  - may show the relation between branches
-  - useful to show the work done for certain file
-
-+++?image=assets/images/log-file.png&size=50%
-
-@title[git log file]
+- it shows what was done on which branch
+- and what was contributing to each branch
+- how it relate to other branches, like branching out and merging in
 
 +++?image=assets/images/log-branches.png&size=50%
 
 @title[git log branches]
+
 
 ---
 
