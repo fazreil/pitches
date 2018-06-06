@@ -232,9 +232,21 @@ There are two types of Version Control System:
 
 ### clients for mac
 
++++?image=https://images.filehippo.net/img/ex/6696__sourcetree_1_23_2_16.png&size=auto
+#### @color[#e49436](Sourcetree for MAC)
+
++++?image=https://tower-website-ftkdppxp1xaznovg.netdna-ssl.com/assets/img/screenshots/largeScreen/mac/working-copy_a.png&size=auto
+#### @color[#e49436](Git Tower for MAC)
 +++
 
 ### clients for linux
+
++++?image=http://mkjblogs.com/wp-content/uploads/2016/03/gitCola.jpeg&size=auto
+#### @color[#e49436](Git Cola)
+
++++
+#### To be honest if you are on linux chances are you'll be loving working on the terminal
+@title[honestly]
 
 ---
 
@@ -271,4 +283,4 @@ There are two types of Version Control System:
 
 ---  
 
-Q&A
+## Q&A
