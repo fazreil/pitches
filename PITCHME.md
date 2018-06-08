@@ -22,11 +22,11 @@ Atlassian
 
 +++
 
-### Where VCS sits in Software Engineering pool of tool?
+### Where VCS sits in Software Engineering pool of tools?
 
 [DevOps periodic table by Xebialabs](https://xebialabs.com/assets/files/infographics/periodic_table_11x17inc_v2_clean_outlines.pdf)
 
-+++?images=assets/images/xebialabs_periodic_table.png&size=auto
++++?image=assets/images/xebialabs_periodic_table.png&size=auto
 @title[Devops Periodic Table]
 
 ---
