@@ -26,7 +26,7 @@ Atlassian
 
 [DevOps periodic table by Xebialabs](https://xebialabs.com/assets/files/infographics/periodic_table_11x17inc_v2_clean_outlines.pdf)
 
-+++?image=assets/images/xebialabs_periodic_table.png&size=auto
++++?image=assets/images/xebialabs_periodic_table.png&size=75%
 @title[Devops Periodic Table]
 
 ---
