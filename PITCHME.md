@@ -264,29 +264,29 @@ There are two types of Version Control System:
 +++
 
 ### Update your code frequently
-  - To avoid conflicts, update code frequently.
-  - It will be best to work on the latest code.
+  - To avoid conflicts, @color[#e49436](update code) frequently.
+  - It will be best to work on the @color[#e49436](latest) code.
   - Conflicts might are not just at the code level, but branch level.
 
 +++
 
 ### Manage conflicts diligently
-  - Keep changes to their respective commits.
-  - If there are multiple changes that are irrelevant to each other, it will be hard to manage the commits.
+  - Keep changes to their @color[#e49436](respective commits).
+  - If there are multiple changes that are irrelevant to each other, it will be @color[#e49436](hard to manage) the commits.
 
 +++
 
 ### Commit relevant changes with relevant message
-  - Best to group a commit to relevant files being modified.
-  - while committing a bunch of files is easy, committing the files with common commit makes the log more readable.
+  - Best to @color[#e49436](group a commit) to relevant files being modified.
+  - while committing a bunch of files is easy, committing the @color[#e49436](files with common commit) makes the @color[#e49436](log more readable).
 
 +++
 
 ### VCS is not just for coding
-  - VCS can be utilised to record changes of files.
-  - Work best with plaintext.
-  - Can also work with keeping configuration files of applications.
-  - These slides are produced with GIT.
+  - VCS can be utilised to @color[#e49436](record changes) of files.
+  - Work best with @color[#e49436](plaintext).
+  - Can also work with @color[#e49436](keeping configuration files) of applications.
+  - @color[#e49436](These slides are version controlled with GIT).
   
 
 ---  
