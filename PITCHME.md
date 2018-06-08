@@ -17,6 +17,16 @@ Wikipedia
 @div[right-50]
 Atlassian 
 @divend
+
++++
+
+### Where VCS sits in Software Engineering pool of tool?
+
+[DevOps periodic table by Xebialabs](https://xebialabs.com/assets/files/infographics/periodic_table_11x17inc_v2_clean_outlines.pdf)
+
++++?images=assets/images/xebialabs_periodic_table.png&size=auto
+@title[Devops Periodic Table]
+
 ---
 
 ## Types of version control systems
